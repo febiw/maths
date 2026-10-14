@@ -1,5 +1,6 @@
 ---
 title: Probability and Statistics
+parent: Year 1
 nav_order: 7
 ---
 

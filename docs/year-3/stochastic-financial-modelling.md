@@ -1,5 +1,6 @@
 ---
 title: Stochastic Financial Modelling
+parent: Year 3
 nav_order: 6
 ---
 

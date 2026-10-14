@@ -1,5 +1,6 @@
 ---
 title: Number Systems
+parent: Year 1
 nav_order: 8
 ---
 

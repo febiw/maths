@@ -1,5 +1,6 @@
 ---
 title: Sets and Counting
+parent: Year 1
 nav_order: 3
 ---
 

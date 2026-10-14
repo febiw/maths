@@ -1,5 +1,6 @@
 ---
 title: Introduction to Calculus
+parent: Year 1
 nav_order: 1
 ---
 

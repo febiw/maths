@@ -1,5 +1,6 @@
 ---
 title: Optimisation with Constraints
+parent: Year 1
 nav_order: 5
 ---
 

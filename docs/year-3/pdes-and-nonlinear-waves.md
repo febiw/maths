@@ -1,5 +1,6 @@
 ---
 title: PDEs and Nonlinear Waves
+parent: Year 3
 nav_order: 8
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Algebra
+parent: Year 2
 nav_order: 7
 ---
 

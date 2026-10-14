@@ -1,5 +1,6 @@
 ---
 title: Stochastic Modelling
+parent: Year 2
 nav_order: 10
 ---
 

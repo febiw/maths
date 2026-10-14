@@ -1,5 +1,6 @@
 ---
 title: Maximum Likelihood Estimation for Grouped and Censored Data
+parent: Year 2
 nav_order: 12
 ---
 

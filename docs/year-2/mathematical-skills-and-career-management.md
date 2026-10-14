@@ -1,5 +1,6 @@
 ---
 title: Mathematical Skills and Career Management
+parent: Year 2
 nav_order: 1
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Problem Solving 1
+parent: Year 1
 nav_order: 4
 ---
 

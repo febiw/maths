@@ -1,5 +1,6 @@
 ---
 title: Introductory Algebra : Complex Numbers, Vectors and Matrices
+parent: Year 1
 nav_order: 2
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Multivariable Calculus and Differential Equations
+parent: Year 1
 nav_order: 6
 ---
 

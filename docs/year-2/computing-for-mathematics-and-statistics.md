@@ -1,5 +1,6 @@
 ---
 title: Computing for Mathematics and Statistics
+parent: Year 2
 nav_order: 2
 ---
 

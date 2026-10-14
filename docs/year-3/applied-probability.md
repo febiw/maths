@@ -1,5 +1,6 @@
 ---
 title: Applied Probability
+parent: Year 3
 nav_order: 4
 ---
 

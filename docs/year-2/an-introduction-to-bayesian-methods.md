@@ -1,5 +1,6 @@
 ---
 title: An Introduction to Bayesian Methods
+parent: Year 2
 nav_order: 11
 ---
 

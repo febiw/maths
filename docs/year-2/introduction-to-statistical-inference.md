@@ -1,5 +1,6 @@
 ---
 title: Introduction to Statistical Inference
+parent: Year 2
 nav_order: 4
 ---
 

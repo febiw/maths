@@ -1,5 +1,6 @@
 ---
 title: Linear Models
+parent: Year 3
 nav_order: 5
 ---
 

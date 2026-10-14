@@ -1,5 +1,6 @@
 ---
 title: Vector Calculus
+parent: Year 2
 nav_order: 6
 ---
 
